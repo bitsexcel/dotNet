@@ -1,0 +1,17 @@
+C:\Users\jdaniel\Documents\Github\dotNet\Reporting\PrinterTest01\PrinterTest01\bin\Debug\net6.0-windows\PrinterTest01.exe
+C:\Users\jdaniel\Documents\Github\dotNet\Reporting\PrinterTest01\PrinterTest01\bin\Debug\net6.0-windows\PrinterTest01.deps.json
+C:\Users\jdaniel\Documents\Github\dotNet\Reporting\PrinterTest01\PrinterTest01\bin\Debug\net6.0-windows\PrinterTest01.runtimeconfig.json
+C:\Users\jdaniel\Documents\Github\dotNet\Reporting\PrinterTest01\PrinterTest01\bin\Debug\net6.0-windows\PrinterTest01.dll
+C:\Users\jdaniel\Documents\Github\dotNet\Reporting\PrinterTest01\PrinterTest01\bin\Debug\net6.0-windows\PrinterTest01.pdb
+C:\Users\jdaniel\Documents\Github\dotNet\Reporting\PrinterTest01\PrinterTest01\obj\Debug\net6.0-windows\PrinterTest01.csproj.AssemblyReference.cache
+C:\Users\jdaniel\Documents\Github\dotNet\Reporting\PrinterTest01\PrinterTest01\obj\Debug\net6.0-windows\PrinterTest01.Form1.resources
+C:\Users\jdaniel\Documents\Github\dotNet\Reporting\PrinterTest01\PrinterTest01\obj\Debug\net6.0-windows\PrinterTest01.csproj.GenerateResource.cache
+C:\Users\jdaniel\Documents\Github\dotNet\Reporting\PrinterTest01\PrinterTest01\obj\Debug\net6.0-windows\PrinterTest01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jdaniel\Documents\Github\dotNet\Reporting\PrinterTest01\PrinterTest01\obj\Debug\net6.0-windows\PrinterTest01.AssemblyInfoInputs.cache
+C:\Users\jdaniel\Documents\Github\dotNet\Reporting\PrinterTest01\PrinterTest01\obj\Debug\net6.0-windows\PrinterTest01.AssemblyInfo.cs
+C:\Users\jdaniel\Documents\Github\dotNet\Reporting\PrinterTest01\PrinterTest01\obj\Debug\net6.0-windows\PrinterTest01.csproj.CoreCompileInputs.cache
+C:\Users\jdaniel\Documents\Github\dotNet\Reporting\PrinterTest01\PrinterTest01\obj\Debug\net6.0-windows\PrinterTest01.dll
+C:\Users\jdaniel\Documents\Github\dotNet\Reporting\PrinterTest01\PrinterTest01\obj\Debug\net6.0-windows\refint\PrinterTest01.dll
+C:\Users\jdaniel\Documents\Github\dotNet\Reporting\PrinterTest01\PrinterTest01\obj\Debug\net6.0-windows\PrinterTest01.pdb
+C:\Users\jdaniel\Documents\Github\dotNet\Reporting\PrinterTest01\PrinterTest01\obj\Debug\net6.0-windows\PrinterTest01.genruntimeconfig.cache
+C:\Users\jdaniel\Documents\Github\dotNet\Reporting\PrinterTest01\PrinterTest01\obj\Debug\net6.0-windows\ref\PrinterTest01.dll
