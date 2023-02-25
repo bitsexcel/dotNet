@@ -1,0 +1,6 @@
+c:\users\daniel\documents\visual studio 2015\Projects\HelloApplicationHttp\HelloApplicationHttp\bin\Debug\HelloApplicationHttp.exe.config
+c:\users\daniel\documents\visual studio 2015\Projects\HelloApplicationHttp\HelloApplicationHttp\bin\Debug\HelloApplicationHttp.exe
+c:\users\daniel\documents\visual studio 2015\Projects\HelloApplicationHttp\HelloApplicationHttp\bin\Debug\HelloApplicationHttp.pdb
+c:\users\daniel\documents\visual studio 2015\Projects\HelloApplicationHttp\HelloApplicationHttp\obj\Debug\HelloApplicationHttp.csprojResolveAssemblyReference.cache
+c:\users\daniel\documents\visual studio 2015\Projects\HelloApplicationHttp\HelloApplicationHttp\obj\Debug\HelloApplicationHttp.exe
+c:\users\daniel\documents\visual studio 2015\Projects\HelloApplicationHttp\HelloApplicationHttp\obj\Debug\HelloApplicationHttp.pdb

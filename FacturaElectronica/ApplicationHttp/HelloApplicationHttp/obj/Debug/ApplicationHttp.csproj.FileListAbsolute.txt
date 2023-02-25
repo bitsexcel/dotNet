@@ -1,0 +1,12 @@
+C:\Users\daniel\Documents\Visual Studio 2015\Projects\ApplicationHttp\HelloApplicationHttp\bin\Debug\HelloApplicationHttp.exe.config
+C:\Users\daniel\Documents\Visual Studio 2015\Projects\ApplicationHttp\HelloApplicationHttp\bin\Debug\HelloApplicationHttp.exe
+C:\Users\daniel\Documents\Visual Studio 2015\Projects\ApplicationHttp\HelloApplicationHttp\bin\Debug\HelloApplicationHttp.pdb
+C:\Users\daniel\Documents\Visual Studio 2015\Projects\ApplicationHttp\HelloApplicationHttp\obj\Debug\ApplicationHttp.csprojResolveAssemblyReference.cache
+C:\Users\daniel\Documents\Visual Studio 2015\Projects\ApplicationHttp\HelloApplicationHttp\obj\Debug\HelloApplicationHttp.exe
+C:\Users\daniel\Documents\Visual Studio 2015\Projects\ApplicationHttp\HelloApplicationHttp\obj\Debug\HelloApplicationHttp.pdb
+C:\Users\Oficina\Documents\Visual_Studio_2019\Projects\ApplicationHttp\HelloApplicationHttp\bin\Debug\HelloApplicationHttp.exe.config
+C:\Users\Oficina\Documents\Visual_Studio_2019\Projects\ApplicationHttp\HelloApplicationHttp\bin\Debug\HelloApplicationHttp.exe
+C:\Users\Oficina\Documents\Visual_Studio_2019\Projects\ApplicationHttp\HelloApplicationHttp\bin\Debug\HelloApplicationHttp.pdb
+C:\Users\Oficina\Documents\Visual_Studio_2019\Projects\ApplicationHttp\HelloApplicationHttp\obj\Debug\ApplicationHttp.csproj.CoreCompileInputs.cache
+C:\Users\Oficina\Documents\Visual_Studio_2019\Projects\ApplicationHttp\HelloApplicationHttp\obj\Debug\HelloApplicationHttp.exe
+C:\Users\Oficina\Documents\Visual_Studio_2019\Projects\ApplicationHttp\HelloApplicationHttp\obj\Debug\HelloApplicationHttp.pdb

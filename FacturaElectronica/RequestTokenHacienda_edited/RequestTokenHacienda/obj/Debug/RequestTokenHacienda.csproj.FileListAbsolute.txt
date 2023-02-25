@@ -1,0 +1,16 @@
+c:\users\daniel\documents\visual studio 2015\Projects\RequestTokenHacienda\RequestTokenHacienda\bin\Debug\RequestTokenHacienda.exe.config
+c:\users\daniel\documents\visual studio 2015\Projects\RequestTokenHacienda\RequestTokenHacienda\obj\Debug\RequestTokenHacienda.csprojResolveAssemblyReference.cache
+c:\users\daniel\documents\visual studio 2015\Projects\RequestTokenHacienda\RequestTokenHacienda\bin\Debug\RequestTokenHacienda.exe
+c:\users\daniel\documents\visual studio 2015\Projects\RequestTokenHacienda\RequestTokenHacienda\bin\Debug\RequestTokenHacienda.pdb
+c:\users\daniel\documents\visual studio 2015\Projects\RequestTokenHacienda\RequestTokenHacienda\obj\Debug\RequestTokenHacienda.exe
+c:\users\daniel\documents\visual studio 2015\Projects\RequestTokenHacienda\RequestTokenHacienda\obj\Debug\RequestTokenHacienda.pdb
+C:\Users\Oficina\Documents\Visual_Studio_2019\Projects\RequestTokenHacienda\RequestTokenHacienda\bin\Debug\RequestTokenHacienda.exe.config
+C:\Users\Oficina\Documents\Visual_Studio_2019\Projects\RequestTokenHacienda\RequestTokenHacienda\bin\Debug\RequestTokenHacienda.exe
+C:\Users\Oficina\Documents\Visual_Studio_2019\Projects\RequestTokenHacienda\RequestTokenHacienda\bin\Debug\RequestTokenHacienda.pdb
+C:\Users\Oficina\Documents\Visual_Studio_2019\Projects\RequestTokenHacienda\RequestTokenHacienda\obj\Debug\RequestTokenHacienda.csprojAssemblyReference.cache
+C:\Users\Oficina\Documents\Visual_Studio_2019\Projects\RequestTokenHacienda\RequestTokenHacienda\obj\Debug\RequestTokenHacienda.csproj.CoreCompileInputs.cache
+C:\Users\Oficina\Documents\Visual_Studio_2019\Projects\RequestTokenHacienda\RequestTokenHacienda\obj\Debug\RequestTokenHacienda.exe
+C:\Users\Oficina\Documents\Visual_Studio_2019\Projects\RequestTokenHacienda\RequestTokenHacienda\obj\Debug\RequestTokenHacienda.pdb
+C:\Users\Oficina\Documents\Visual_Studio_2019\Projects\RequestTokenHacienda\RequestTokenHacienda\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Oficina\Documents\Visual_Studio_2019\Projects\RequestTokenHacienda\RequestTokenHacienda\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Oficina\Documents\Visual_Studio_2019\Projects\RequestTokenHacienda\RequestTokenHacienda\obj\Debug\RequestTokenHacienda.csproj.CopyComplete
