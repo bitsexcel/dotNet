@@ -1,0 +1,15 @@
+C:\Users\jdaniel\Documents\Github\dotNet\Network\EmailSender\EmailSender\bin\Debug\net6.0\EmailSender.exe
+C:\Users\jdaniel\Documents\Github\dotNet\Network\EmailSender\EmailSender\bin\Debug\net6.0\EmailSender.deps.json
+C:\Users\jdaniel\Documents\Github\dotNet\Network\EmailSender\EmailSender\bin\Debug\net6.0\EmailSender.runtimeconfig.json
+C:\Users\jdaniel\Documents\Github\dotNet\Network\EmailSender\EmailSender\bin\Debug\net6.0\EmailSender.dll
+C:\Users\jdaniel\Documents\Github\dotNet\Network\EmailSender\EmailSender\bin\Debug\net6.0\EmailSender.pdb
+C:\Users\jdaniel\Documents\Github\dotNet\Network\EmailSender\EmailSender\obj\Debug\net6.0\EmailSender.csproj.AssemblyReference.cache
+C:\Users\jdaniel\Documents\Github\dotNet\Network\EmailSender\EmailSender\obj\Debug\net6.0\EmailSender.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jdaniel\Documents\Github\dotNet\Network\EmailSender\EmailSender\obj\Debug\net6.0\EmailSender.AssemblyInfoInputs.cache
+C:\Users\jdaniel\Documents\Github\dotNet\Network\EmailSender\EmailSender\obj\Debug\net6.0\EmailSender.AssemblyInfo.cs
+C:\Users\jdaniel\Documents\Github\dotNet\Network\EmailSender\EmailSender\obj\Debug\net6.0\EmailSender.csproj.CoreCompileInputs.cache
+C:\Users\jdaniel\Documents\Github\dotNet\Network\EmailSender\EmailSender\obj\Debug\net6.0\EmailSender.dll
+C:\Users\jdaniel\Documents\Github\dotNet\Network\EmailSender\EmailSender\obj\Debug\net6.0\refint\EmailSender.dll
+C:\Users\jdaniel\Documents\Github\dotNet\Network\EmailSender\EmailSender\obj\Debug\net6.0\EmailSender.pdb
+C:\Users\jdaniel\Documents\Github\dotNet\Network\EmailSender\EmailSender\obj\Debug\net6.0\EmailSender.genruntimeconfig.cache
+C:\Users\jdaniel\Documents\Github\dotNet\Network\EmailSender\EmailSender\obj\Debug\net6.0\ref\EmailSender.dll
