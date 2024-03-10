@@ -1,0 +1,27 @@
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 01\PartsOfXML\bin\Debug\Parts of XML.exe.config
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 01\PartsOfXML\bin\Debug\Parts of XML.XML
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 01\PartsOfXML\bin\Debug\Parts of XML.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 01\PartsOfXML\bin\Debug\Parts of XML.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 01\PartsOfXML\obj\Debug\Parts of XML.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter 01\PartsOfXML\obj\Debug\Parts of XML.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_01\PartsOfXML\bin\Debug\Parts of XML.exe.config
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_01\PartsOfXML\bin\Debug\Parts of XML.XML
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_01\PartsOfXML\obj\Debug\Parts of XML.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_01\PartsOfXML\obj\Debug\Parts of XML.pdb
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_01\PartsOfXML\bin\Debug\Parts of XML.exe
+Z:\Authoring\Books\Beginning XML with C# 6\Code\Chapter_01\PartsOfXML\bin\Debug\Parts of XML.pdb
+Y:\Chapter_01\PartsOfXML\bin\Debug\Parts of XML.exe.config
+Y:\Chapter_01\PartsOfXML\bin\Debug\Parts of XML.XML
+Y:\Chapter_01\PartsOfXML\bin\Debug\Parts of XML.exe
+Y:\Chapter_01\PartsOfXML\bin\Debug\Parts of XML.pdb
+Y:\Chapter_01\PartsOfXML\obj\Debug\Parts of XML.exe
+Y:\Chapter_01\PartsOfXML\obj\Debug\Parts of XML.pdb
+C:\Users\jdaniel\Documents\Github\dotNet\xml\beg-xml-w-csharp-7\Chapter_01\PartsOfXML\bin\Debug\Parts of XML.exe.config
+C:\Users\jdaniel\Documents\Github\dotNet\xml\beg-xml-w-csharp-7\Chapter_01\PartsOfXML\bin\Debug\Parts of XML.XML
+C:\Users\jdaniel\Documents\Github\dotNet\xml\beg-xml-w-csharp-7\Chapter_01\PartsOfXML\bin\Debug\Parts of XML.exe
+C:\Users\jdaniel\Documents\Github\dotNet\xml\beg-xml-w-csharp-7\Chapter_01\PartsOfXML\bin\Debug\Parts of XML.pdb
+C:\Users\jdaniel\Documents\Github\dotNet\xml\beg-xml-w-csharp-7\Chapter_01\PartsOfXML\obj\Debug\PartsOfXML.csproj.AssemblyReference.cache
+C:\Users\jdaniel\Documents\Github\dotNet\xml\beg-xml-w-csharp-7\Chapter_01\PartsOfXML\obj\Debug\PartsOfXML.csproj.SuggestedBindingRedirects.cache
+C:\Users\jdaniel\Documents\Github\dotNet\xml\beg-xml-w-csharp-7\Chapter_01\PartsOfXML\obj\Debug\PartsOfXML.csproj.CoreCompileInputs.cache
+C:\Users\jdaniel\Documents\Github\dotNet\xml\beg-xml-w-csharp-7\Chapter_01\PartsOfXML\obj\Debug\Parts of XML.exe
+C:\Users\jdaniel\Documents\Github\dotNet\xml\beg-xml-w-csharp-7\Chapter_01\PartsOfXML\obj\Debug\Parts of XML.pdb
