@@ -23,3 +23,14 @@ H:\Chapter_02\GetElementsByTagName\obj\Debug\GetElementsByTagName.csproj.Generat
 H:\Chapter_02\GetElementsByTagName\obj\Debug\WindowsApplication3.exe
 H:\Chapter_02\GetElementsByTagName\obj\Debug\WindowsApplication3.pdb
 H:\Chapter_02\GetElementsByTagName\obj\Debug\GetElementsByTagName.csproj.CoreCompileInputs.cache
+C:\Users\jdaniel\Documents\Github\dotNet\xml\beg-xml-w-csharp-7\Chapter_02\GetElementsByTagName\bin\Debug\WindowsApplication3.exe.config
+C:\Users\jdaniel\Documents\Github\dotNet\xml\beg-xml-w-csharp-7\Chapter_02\GetElementsByTagName\bin\Debug\WindowsApplication3.exe
+C:\Users\jdaniel\Documents\Github\dotNet\xml\beg-xml-w-csharp-7\Chapter_02\GetElementsByTagName\bin\Debug\WindowsApplication3.pdb
+C:\Users\jdaniel\Documents\Github\dotNet\xml\beg-xml-w-csharp-7\Chapter_02\GetElementsByTagName\obj\Debug\GetElementsByTagName.csproj.AssemblyReference.cache
+C:\Users\jdaniel\Documents\Github\dotNet\xml\beg-xml-w-csharp-7\Chapter_02\GetElementsByTagName\obj\Debug\GetElementsByTagName.csproj.SuggestedBindingRedirects.cache
+C:\Users\jdaniel\Documents\Github\dotNet\xml\beg-xml-w-csharp-7\Chapter_02\GetElementsByTagName\obj\Debug\WindowsApplication3.Form1.resources
+C:\Users\jdaniel\Documents\Github\dotNet\xml\beg-xml-w-csharp-7\Chapter_02\GetElementsByTagName\obj\Debug\WindowsApplication3.Properties.Resources.resources
+C:\Users\jdaniel\Documents\Github\dotNet\xml\beg-xml-w-csharp-7\Chapter_02\GetElementsByTagName\obj\Debug\GetElementsByTagName.csproj.GenerateResource.cache
+C:\Users\jdaniel\Documents\Github\dotNet\xml\beg-xml-w-csharp-7\Chapter_02\GetElementsByTagName\obj\Debug\GetElementsByTagName.csproj.CoreCompileInputs.cache
+C:\Users\jdaniel\Documents\Github\dotNet\xml\beg-xml-w-csharp-7\Chapter_02\GetElementsByTagName\obj\Debug\WindowsApplication3.exe
+C:\Users\jdaniel\Documents\Github\dotNet\xml\beg-xml-w-csharp-7\Chapter_02\GetElementsByTagName\obj\Debug\WindowsApplication3.pdb

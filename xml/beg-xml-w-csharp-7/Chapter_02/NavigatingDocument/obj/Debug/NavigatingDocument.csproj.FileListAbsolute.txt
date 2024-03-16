@@ -22,3 +22,14 @@ H:\Chapter_02\NavigatingDocument\obj\Debug\NavigatingDocument.csproj.GenerateRes
 H:\Chapter_02\NavigatingDocument\obj\Debug\WindowsApplication2.exe
 H:\Chapter_02\NavigatingDocument\obj\Debug\WindowsApplication2.pdb
 H:\Chapter_02\NavigatingDocument\obj\Debug\NavigatingDocument.csproj.CoreCompileInputs.cache
+C:\Users\jdaniel\Documents\Github\dotNet\xml\beg-xml-w-csharp-7\Chapter_02\NavigatingDocument\bin\Debug\WindowsApplication2.exe.config
+C:\Users\jdaniel\Documents\Github\dotNet\xml\beg-xml-w-csharp-7\Chapter_02\NavigatingDocument\bin\Debug\WindowsApplication2.exe
+C:\Users\jdaniel\Documents\Github\dotNet\xml\beg-xml-w-csharp-7\Chapter_02\NavigatingDocument\bin\Debug\WindowsApplication2.pdb
+C:\Users\jdaniel\Documents\Github\dotNet\xml\beg-xml-w-csharp-7\Chapter_02\NavigatingDocument\obj\Debug\NavigatingDocument.csproj.AssemblyReference.cache
+C:\Users\jdaniel\Documents\Github\dotNet\xml\beg-xml-w-csharp-7\Chapter_02\NavigatingDocument\obj\Debug\NavigatingDocument.csproj.SuggestedBindingRedirects.cache
+C:\Users\jdaniel\Documents\Github\dotNet\xml\beg-xml-w-csharp-7\Chapter_02\NavigatingDocument\obj\Debug\WindowsApplication2.Form1.resources
+C:\Users\jdaniel\Documents\Github\dotNet\xml\beg-xml-w-csharp-7\Chapter_02\NavigatingDocument\obj\Debug\WindowsApplication2.Properties.Resources.resources
+C:\Users\jdaniel\Documents\Github\dotNet\xml\beg-xml-w-csharp-7\Chapter_02\NavigatingDocument\obj\Debug\NavigatingDocument.csproj.GenerateResource.cache
+C:\Users\jdaniel\Documents\Github\dotNet\xml\beg-xml-w-csharp-7\Chapter_02\NavigatingDocument\obj\Debug\NavigatingDocument.csproj.CoreCompileInputs.cache
+C:\Users\jdaniel\Documents\Github\dotNet\xml\beg-xml-w-csharp-7\Chapter_02\NavigatingDocument\obj\Debug\WindowsApplication2.exe
+C:\Users\jdaniel\Documents\Github\dotNet\xml\beg-xml-w-csharp-7\Chapter_02\NavigatingDocument\obj\Debug\WindowsApplication2.pdb
