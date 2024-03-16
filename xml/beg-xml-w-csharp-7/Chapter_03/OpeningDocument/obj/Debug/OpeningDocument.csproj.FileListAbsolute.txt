@@ -23,3 +23,14 @@ H:\Chapter_03\OpeningDocument\obj\Debug\OpeningDocument.csproj.GenerateResource.
 H:\Chapter_03\OpeningDocument\obj\Debug\OpeningDocument.csproj.CoreCompileInputs.cache
 H:\Chapter_03\OpeningDocument\obj\Debug\WindowsApplication1.exe
 H:\Chapter_03\OpeningDocument\obj\Debug\WindowsApplication1.pdb
+C:\Users\jdaniel\Documents\Github\dotNet\xml\beg-xml-w-csharp-7\Chapter_03\OpeningDocument\bin\Debug\WindowsApplication1.exe.config
+C:\Users\jdaniel\Documents\Github\dotNet\xml\beg-xml-w-csharp-7\Chapter_03\OpeningDocument\bin\Debug\WindowsApplication1.exe
+C:\Users\jdaniel\Documents\Github\dotNet\xml\beg-xml-w-csharp-7\Chapter_03\OpeningDocument\bin\Debug\WindowsApplication1.pdb
+C:\Users\jdaniel\Documents\Github\dotNet\xml\beg-xml-w-csharp-7\Chapter_03\OpeningDocument\obj\Debug\OpeningDocument.csproj.AssemblyReference.cache
+C:\Users\jdaniel\Documents\Github\dotNet\xml\beg-xml-w-csharp-7\Chapter_03\OpeningDocument\obj\Debug\OpeningDocument.csproj.SuggestedBindingRedirects.cache
+C:\Users\jdaniel\Documents\Github\dotNet\xml\beg-xml-w-csharp-7\Chapter_03\OpeningDocument\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\jdaniel\Documents\Github\dotNet\xml\beg-xml-w-csharp-7\Chapter_03\OpeningDocument\obj\Debug\WindowsApplication1.Properties.Resources.resources
+C:\Users\jdaniel\Documents\Github\dotNet\xml\beg-xml-w-csharp-7\Chapter_03\OpeningDocument\obj\Debug\OpeningDocument.csproj.GenerateResource.cache
+C:\Users\jdaniel\Documents\Github\dotNet\xml\beg-xml-w-csharp-7\Chapter_03\OpeningDocument\obj\Debug\OpeningDocument.csproj.CoreCompileInputs.cache
+C:\Users\jdaniel\Documents\Github\dotNet\xml\beg-xml-w-csharp-7\Chapter_03\OpeningDocument\obj\Debug\WindowsApplication1.exe
+C:\Users\jdaniel\Documents\Github\dotNet\xml\beg-xml-w-csharp-7\Chapter_03\OpeningDocument\obj\Debug\WindowsApplication1.pdb

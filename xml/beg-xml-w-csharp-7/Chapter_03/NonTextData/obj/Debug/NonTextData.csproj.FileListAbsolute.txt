@@ -31,3 +31,14 @@ H:\Chapter_03\NonTextData\obj\Debug\NonTextData.csproj.GenerateResource.Cache
 H:\Chapter_03\NonTextData\obj\Debug\NonTextData.csproj.CoreCompileInputs.cache
 H:\Chapter_03\NonTextData\obj\Debug\WindowsApplication16.exe
 H:\Chapter_03\NonTextData\obj\Debug\WindowsApplication16.pdb
+C:\Users\jdaniel\Documents\Github\dotNet\xml\beg-xml-w-csharp-7\Chapter_03\NonTextData\bin\Debug\WindowsApplication16.exe.config
+C:\Users\jdaniel\Documents\Github\dotNet\xml\beg-xml-w-csharp-7\Chapter_03\NonTextData\bin\Debug\WindowsApplication16.exe
+C:\Users\jdaniel\Documents\Github\dotNet\xml\beg-xml-w-csharp-7\Chapter_03\NonTextData\bin\Debug\WindowsApplication16.pdb
+C:\Users\jdaniel\Documents\Github\dotNet\xml\beg-xml-w-csharp-7\Chapter_03\NonTextData\obj\Debug\NonTextData.csproj.AssemblyReference.cache
+C:\Users\jdaniel\Documents\Github\dotNet\xml\beg-xml-w-csharp-7\Chapter_03\NonTextData\obj\Debug\NonTextData.csproj.SuggestedBindingRedirects.cache
+C:\Users\jdaniel\Documents\Github\dotNet\xml\beg-xml-w-csharp-7\Chapter_03\NonTextData\obj\Debug\WindowsApplication16.Form1.resources
+C:\Users\jdaniel\Documents\Github\dotNet\xml\beg-xml-w-csharp-7\Chapter_03\NonTextData\obj\Debug\WindowsApplication16.Properties.Resources.resources
+C:\Users\jdaniel\Documents\Github\dotNet\xml\beg-xml-w-csharp-7\Chapter_03\NonTextData\obj\Debug\NonTextData.csproj.GenerateResource.cache
+C:\Users\jdaniel\Documents\Github\dotNet\xml\beg-xml-w-csharp-7\Chapter_03\NonTextData\obj\Debug\NonTextData.csproj.CoreCompileInputs.cache
+C:\Users\jdaniel\Documents\Github\dotNet\xml\beg-xml-w-csharp-7\Chapter_03\NonTextData\obj\Debug\WindowsApplication16.exe
+C:\Users\jdaniel\Documents\Github\dotNet\xml\beg-xml-w-csharp-7\Chapter_03\NonTextData\obj\Debug\WindowsApplication16.pdb
