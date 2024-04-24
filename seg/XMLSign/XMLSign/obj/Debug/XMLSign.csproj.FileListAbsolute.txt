@@ -1,0 +1,7 @@
+C:\Users\daniel\GitHub\dotNet\seg\XMLSign\XMLSign\obj\Debug\XMLSign.csproj.AssemblyReference.cache
+C:\Users\daniel\GitHub\dotNet\seg\XMLSign\XMLSign\obj\Debug\XMLSign.csproj.CoreCompileInputs.cache
+C:\Users\daniel\GitHub\dotNet\seg\XMLSign\XMLSign\bin\Debug\XMLSign.exe.config
+C:\Users\daniel\GitHub\dotNet\seg\XMLSign\XMLSign\bin\Debug\XMLSign.exe
+C:\Users\daniel\GitHub\dotNet\seg\XMLSign\XMLSign\bin\Debug\XMLSign.pdb
+C:\Users\daniel\GitHub\dotNet\seg\XMLSign\XMLSign\obj\Debug\XMLSign.exe
+C:\Users\daniel\GitHub\dotNet\seg\XMLSign\XMLSign\obj\Debug\XMLSign.pdb

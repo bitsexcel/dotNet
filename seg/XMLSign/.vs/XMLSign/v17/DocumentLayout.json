@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\daniel\\GitHub\\dotNet\\seg\\XMLSign\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61F369D9-5FC8-484A-8E6A-088764BF2333}|XMLSign\\XMLSign.csproj|c:\\users\\daniel\\github\\dotnet\\seg\\xmlsign\\xmlsign\\xmlsignrsakey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61F369D9-5FC8-484A-8E6A-088764BF2333}|XMLSign\\XMLSign.csproj|solutionrelative:xmlsign\\xmlsignrsakey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "XMLSignRSAkey.cs",
+              "DocumentMoniker": "C:\\Users\\daniel\\GitHub\\dotNet\\seg\\XMLSign\\XMLSign\\XMLSignRSAkey.cs",
+              "RelativeDocumentMoniker": "XMLSign\\XMLSignRSAkey.cs",
+              "ToolTip": "C:\\Users\\daniel\\GitHub\\dotNet\\seg\\XMLSign\\XMLSign\\XMLSignRSAkey.cs",
+              "RelativeToolTip": "XMLSign\\XMLSignRSAkey.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T14:34:29.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{2c59525e-9c14-4bfd-bc18-3a5ae7eb7dbd}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
